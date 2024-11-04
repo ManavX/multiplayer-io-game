@@ -1,3 +1,1 @@
-This is a starter project for the [Chris Courses Online Multiplayer Game Tutorial](https://www.youtube.com/watch?v=Wcvqnx14cZA) available on YouTube.
-
-To get started, download this repo and double click `index.html` to see the single-player game we'll base our multiplayer-game off of.
+An online multiplayer game inspired by Diep.io with a unique twist! Battle in an open arena, compete on the leaderboard, and grow stronger as you eliminate opponents. Currently supports multiple players, real-time leaderboard, and dynamic combat. Features in development include camera follow, persistent stats, and customizable player abilities.
